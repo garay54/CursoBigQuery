@@ -5,8 +5,7 @@
 .terraform.lock.hcl
 *.tfvars
 
-#Credenciales de GCP
-*.jason
+
 
 # OS files
 .DS_Store
