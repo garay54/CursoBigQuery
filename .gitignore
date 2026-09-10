@@ -1,0 +1,16 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+*.tfvars
+
+#Credenciales de GCP
+*.jason
+
+# OS files
+.DS_Store
+Thumbs.db
+
+google-bigquery-arquitectura-finops
+google-bigquery-arquitectura-finops.zip
